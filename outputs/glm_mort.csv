@@ -1,0 +1,12 @@
+"","effect","group","term","estimate","std.error","statistic","p.value"
+"1","fixed",NA,"(Intercept)",-2.311,0.186,-12.413,0
+"2","fixed",NA,"plantMaz",2.031,0.182,11.149,0
+"3","fixed",NA,"plantTom",1.766,0.2,8.844,0
+"4","fixed",NA,"isolateBB",1.688,0.18,9.39,0
+"5","fixed",NA,"isolateMT",1.322,0.183,7.236,0
+"6","fixed",NA,"plantMaz:isolateBB",-0.71,0.229,-3.107,0.002
+"7","fixed",NA,"plantTom:isolateBB",-1.135,0.252,-4.501,0
+"8","fixed",NA,"plantMaz:isolateMT",-0.913,0.231,-3.952,0
+"9","fixed",NA,"plantTom:isolateMT",-0.601,0.253,-2.373,0.018
+"10","ran_pars","mother","sd__(Intercept)",0.527,NA,NA,NA
+"11","ran_pars","father","sd__(Intercept)",0.469,NA,NA,NA
